@@ -1,0 +1,10 @@
+T-Shirt,599
+Oversized T-Shirt,799
+Formal Shirt,1299
+Casual Shirt,899
+Slim Fit Jeans,1699
+Regular Fit Jeans,1499
+Winter Jacket,2999
+Hoodie,1399
+Cotton Kurta,1199
+Party Wear Dress,2499
