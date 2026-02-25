@@ -17,7 +17,6 @@ def load_product():
                 try:
                     products[name] = float(price)
                 except ValueError:
-                    # Skip lines with invalid prices
                     continue
     except FileNotFoundError:
         print("Product file not found.")
